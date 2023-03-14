@@ -6,4 +6,4 @@ Fungsi Registrasi dan Forgot Password Hanya Bisa aktif jika Modul Msg ada yg ter
 
 
 
-### Kami memiliki banyak modul pesan yg akan kami share nantinya lewat form ini
+### Kami memiliki banyak modul msg yg akan kami share nantinya lewat form ini
